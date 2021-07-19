@@ -1,0 +1,8 @@
+{
+  "name": "Frame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9b827839"
+}
