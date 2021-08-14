@@ -1,3 +1,3 @@
 # frame
 
-Empty template for now
+Empty template
